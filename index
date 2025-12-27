@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Isaac Roussel — Writing Library</title>
+  <meta name="description" content="Essays, reflections, memoir, sermons, and fiction by Isaac Roussel." />
+
+  <style>
+    body {
+      font-family: Georgia, "Times New Roman", serif;
+      background: #fdfdfc;
+      color: #222;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      border-bottom: 1px solid #ddd;
+      padding: 2rem 1rem;
+      background: #fafafa;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.2rem;
+      font-weight: normal;
+    }
+
+    header p {
+      margin-top: 0.5rem;
+      max-width: 700px;
+      color: #444;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    section {
+      margin-bottom: 3rem;
+    }
+
+    section h2 {
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 0.3rem;
+      font-size: 1.5rem;
+      font-weight: normal;
+    }
+
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    li {
+      margin: 0.6rem 0;
+    }
+
+    a {
+      color: #1a4c7c;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .muted {
+      color: #666;
+      font-size: 0.95rem;
+    }
+
+    footer {
+      border-top: 1px solid #ddd;
+      margin-top: 4rem;
+      padding: 1.5rem 1rem;
+      font-size: 0.9rem;
+      color: #555;
+      background: #fafafa;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Isaac Roussel</h1>
+  <p>
+    A library of essays, reflections, sermons, memoir, and imaginative fiction.
+    This site is organized by theme and series rather than chronology.
+  </p>
+</header>
+
+<main>
+
+  <section>
+    <h2>Start Here</h2>
+    <ul>
+      <li>
+        <strong>About this site</strong> —
+        <span class="muted">What I’m writing and why</span>
+      </li>
+      <li>
+        <strong>Recommended reading</strong> —
+        <span class="muted">A few good places to begin</span>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Writing Library</h2>
+    <ul>
+      <li>
+        <a href="omer/">Omer Reflections</a> —
+        <span class="muted">A daily journey of reflection and spiritual practice</span>
+      </li>
+      <li>
+        <a href="memoir/">Spiritual Memoir</a> —
+        <span class="muted">Personal reflections and lived theology</span>
+      </li>
+      <li>
+        <a href="essays/">Essays</a> —
+        <span class="muted">Faith, prayer, attention, and the inner life</span>
+      </li>
+      <li>
+        <a href="sermons/">Sermons</a> —
+        <span class="muted">Teaching texts and liturgical reflections</span>
+      </li>
+      <li>
+        <a href="fiction/">Fiction</a> —
+        <span class="muted">Stories set in enchanted, mythic, and human worlds</span>
+      </li>
+      <li>
+        <a href="tools/">Tools</a> —
+        <span class="muted">Language learning and other projects</span>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Latest Updates</h2>
+    <ul>
+      <li>
+        <em>Coming soon</em> —
+        <span class="muted">New pieces will be listed here as they’re published</span>
+      </li>
+    </ul>
+  </section>
+
+</main>
+
+<footer>
+  <p>
+    © Isaac Roussel.  
+    This site is hosted via GitHub Pages.
+  </p>
+</footer>
+
+</body>
+</html>
